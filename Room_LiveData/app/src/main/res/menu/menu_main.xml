@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bugscript.room_livedata.MainActivity">
+    <item
+        android:id="@+id/action_introduce"
+        android:orderInCategory="100"
+        android:icon="@drawable/insert"
+        android:title="@string/action_inflate"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_takeAway"
+        android:orderInCategory="100"
+        android:icon="@drawable/delete"
+        android:title="@string/action_delete_all"
+        app:showAsAction="ifRoom" />
+</menu>

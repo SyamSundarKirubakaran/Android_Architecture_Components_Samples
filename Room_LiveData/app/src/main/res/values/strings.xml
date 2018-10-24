@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODOs</string>
+    <string name="action_inflate">Inflate Data</string>
+    <string name="action_delete_all">Delete Data</string>
+</resources>
